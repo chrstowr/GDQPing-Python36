@@ -1,0 +1,1472 @@
+[
+  {
+    "run_id": 1,
+    "time": "2022-01-09 16:30:00",
+    "length": 30,
+    "game": "Pre-Show",
+    "run": "Get Hype \u2014 AGDQ",
+    "runners": "feasel, spikevegeta, JHobz, Kungfufruitcup, Keizaron",
+    "host": "PurpleGhostKasper",
+    "reminded": false
+  },
+  {
+    "run_id": 2,
+    "time": "2022-01-09 17:00:00",
+    "length": 95,
+    "game": "Nioh 2",
+    "run": "Any% Featherless \u2014 PS5",
+    "runners": "AxelSanGo",
+    "host": "PurpleGhostKasper",
+    "reminded": false
+  },
+  {
+    "run_id": 3,
+    "time": "2022-01-09 18:47:00",
+    "length": 90,
+    "game": "Metroid Prime Hunters",
+    "run": "All Items \u2014 DS",
+    "runners": "Mr_Shasta",
+    "host": "PurpleGhostKasper",
+    "reminded": false
+  },
+  {
+    "run_id": 4,
+    "time": "2022-01-09 20:39:00",
+    "length": 48,
+    "game": "Donkey Kong Country 2: Diddy's Kong Quest",
+    "run": "Any% \u2014 SNES",
+    "runners": "Tonkotsu, SBDWolf, V0oid, Eazinn",
+    "host": "Skybilz",
+    "reminded": false
+  },
+  {
+    "run_id": 5,
+    "time": "2022-01-09 21:39:00",
+    "length": 25,
+    "game": "DEATHLOOP",
+    "run": "Any% \u2014 PC",
+    "runners": "CreeperHntr",
+    "host": "Skybilz",
+    "reminded": false
+  },
+  {
+    "run_id": 6,
+    "time": "2022-01-09 22:16:00",
+    "length": 13,
+    "game": "Axiom Verge 2",
+    "run": "Any% Major Glitches \u2014 PC",
+    "runners": "SeraphinEveles",
+    "host": "Skybilz",
+    "reminded": false
+  },
+  {
+    "run_id": 7,
+    "time": "2022-01-09 22:41:00",
+    "length": 32,
+    "game": "Mega Man 2",
+    "run": "any% (difficult) \u2014 NES",
+    "runners": "coolkid",
+    "host": "Skybilz",
+    "reminded": false
+  },
+  {
+    "run_id": 8,
+    "time": "2022-01-09 23:25:00",
+    "length": 15,
+    "game": "Bonus Game 1 - Metal Gear Solid 2: Substance",
+    "run": "Tanker Blindfolded \u2014 PC",
+    "runners": "ApacheSmash",
+    "host": "Skybilz",
+    "reminded": false
+  },
+  {
+    "run_id": 9,
+    "time": "2022-01-09 23:52:00",
+    "length": 75,
+    "game": "Death's Door",
+    "run": "Current Patch Any% \u2014 PC",
+    "runners": "Scrublord",
+    "host": "Mr. Game and Shout",
+    "reminded": false
+  },
+  {
+    "run_id": 10,
+    "time": "2022-01-10 01:19:00",
+    "length": 38,
+    "game": "Marvel's Spider-Man Remastered",
+    "run": "Silver Lining Any% \u2014 PS5",
+    "runners": "Pessilist",
+    "host": "Mr. Game and Shout",
+    "reminded": false
+  },
+  {
+    "run_id": 11,
+    "time": "2022-01-10 02:09:00",
+    "length": 105,
+    "game": "The Legend of Zelda: Oracle of Seasons",
+    "run": "All Essences \u2014 GBC",
+    "runners": "TGH",
+    "host": "Char_bunny",
+    "reminded": false
+  },
+  {
+    "run_id": 12,
+    "time": "2022-01-10 04:06:00",
+    "length": 15,
+    "game": "Daily Recap - Sunday",
+    "run": "Recap% \u2014 Live",
+    "runners": "feasel, spikevegeta, Keizaron, JHobz",
+    "host": "Char_bunny",
+    "reminded": false
+  },
+  {
+    "run_id": 13,
+    "time": "2022-01-10 04:21:00",
+    "length": 80,
+    "game": "Dead Space 2",
+    "run": "any% \u2014 PC",
+    "runners": "sharkhat87",
+    "host": "Char_bunny",
+    "reminded": false
+  },
+  {
+    "run_id": 14,
+    "time": "2022-01-10 05:53:00",
+    "length": 45,
+    "game": "Samurai Jack: Battle Through Time",
+    "run": "Any% NG+ \u2014 PC",
+    "runners": "A Flyin Coconut",
+    "host": "Brutal_Melo",
+    "reminded": false
+  },
+  {
+    "run_id": 15,
+    "time": "2022-01-10 06:48:00",
+    "length": 30,
+    "game": "RITE",
+    "run": "Any% \u2014 PC",
+    "runners": "Lincher",
+    "host": "Brutal_Melo",
+    "reminded": false
+  },
+  {
+    "run_id": 16,
+    "time": "2022-01-10 07:28:00",
+    "length": 65,
+    "game": "Mail Mole",
+    "run": "Any% \u2014 PC",
+    "runners": "headstrong1290",
+    "host": "Brutal_Melo",
+    "reminded": false
+  },
+  {
+    "run_id": 17,
+    "time": "2022-01-10 08:43:00",
+    "length": 30,
+    "game": "Antichamber",
+    "run": "100% \u2014 PC",
+    "runners": "Ozmourn",
+    "host": "Sandsh8rk",
+    "reminded": false
+  },
+  {
+    "run_id": 18,
+    "time": "2022-01-10 09:23:00",
+    "length": 35,
+    "game": "Judge Dredd",
+    "run": "any% \u2014 SNES",
+    "runners": "Traviktox",
+    "host": "Sandsh8rk",
+    "reminded": false
+  },
+  {
+    "run_id": 19,
+    "time": "2022-01-10 10:08:00",
+    "length": 30,
+    "game": "Bust-A-Move 4",
+    "run": "Puzzle - Arcade (Normal) \u2014 PS1",
+    "runners": "poshi",
+    "host": "Sandsh8rk",
+    "reminded": false
+  },
+  {
+    "run_id": 20,
+    "time": "2022-01-10 10:53:00",
+    "length": 24,
+    "game": "ActRaiser",
+    "run": "Professional! Mode Race \u2014 SNES",
+    "runners": "Aquas, Teleo1",
+    "host": "Sandsh8rk",
+    "reminded": false
+  },
+  {
+    "run_id": 21,
+    "time": "2022-01-10 11:27:00",
+    "length": 50,
+    "game": "Beyond Oasis",
+    "run": "any% \u2014 PC",
+    "runners": "Delekates",
+    "host": "Sandsh8rk",
+    "reminded": false
+  },
+  {
+    "run_id": 22,
+    "time": "2022-01-10 12:27:00",
+    "length": 45,
+    "game": "Gunstar Heroes",
+    "run": "Any% Expert \u2014 Genesis",
+    "runners": "dagronSR",
+    "host": "samorasie",
+    "reminded": false
+  },
+  {
+    "run_id": 23,
+    "time": "2022-01-10 13:22:00",
+    "length": 30,
+    "game": "Environmental Station Alpha",
+    "run": "Surface Ending \u2014 PC",
+    "runners": "Vicas",
+    "host": "samorasie",
+    "reminded": false
+  },
+  {
+    "run_id": 24,
+    "time": "2022-01-10 14:02:00",
+    "length": 23,
+    "game": "Spyro: Attack of the Rhynocs",
+    "run": "any% \u2014 GBA",
+    "runners": "Breadghost",
+    "host": "samorasie",
+    "reminded": false
+  },
+  {
+    "run_id": 25,
+    "time": "2022-01-10 14:35:00",
+    "length": 30,
+    "game": "Part Time UFO",
+    "run": "Any% \u2014 Switch",
+    "runners": "ykrin",
+    "host": "frozenflygone",
+    "reminded": false
+  },
+  {
+    "run_id": 26,
+    "time": "2022-01-10 15:15:00",
+    "length": 70,
+    "game": "Kirby's Dream Land 3",
+    "run": "Any% (No 2P) \u2014 Switch",
+    "runners": "Darksol188",
+    "host": "frozenflygone",
+    "reminded": false
+  },
+  {
+    "run_id": 27,
+    "time": "2022-01-10 16:35:00",
+    "length": 35,
+    "game": "Kena: Bridge of Spirits",
+    "run": "Toshi's Relics (Easy) \u2014 PC",
+    "runners": "InsertLogic",
+    "host": "frozenflygone",
+    "reminded": false
+  },
+  {
+    "run_id": 28,
+    "time": "2022-01-10 17:20:00",
+    "length": 35,
+    "game": "Chicory: A Colorful Tale",
+    "run": "All Bosses And Trials \u2014 PC",
+    "runners": "Punchy",
+    "host": "frozenflygone",
+    "reminded": false
+  },
+  {
+    "run_id": 29,
+    "time": "2022-01-10 18:05:00",
+    "length": 65,
+    "game": "Crash Team Racing",
+    "run": "Any% (No Major Glitches) \u2014 PS1",
+    "runners": "hypnoshark",
+    "host": "Edobean",
+    "reminded": false
+  },
+  {
+    "run_id": 30,
+    "time": "2022-01-10 19:20:00",
+    "length": 25,
+    "game": "Webbed",
+    "run": "Any% \u2014 PC",
+    "runners": "ShadowthePast",
+    "host": "Edobean",
+    "reminded": false
+  },
+  {
+    "run_id": 31,
+    "time": "2022-01-10 19:55:00",
+    "length": 50,
+    "game": "Mega Man X4",
+    "run": "100% Zero vs X \u2014 PS1",
+    "runners": "Luiz Miguel",
+    "host": "Edobean",
+    "reminded": false
+  },
+  {
+    "run_id": 32,
+    "time": "2022-01-10 20:55:00",
+    "length": 105,
+    "game": "Psychonauts 2",
+    "run": "Any% \u2014 PC",
+    "runners": "ItzBytez",
+    "host": "ateatree",
+    "reminded": false
+  },
+  {
+    "run_id": 33,
+    "time": "2022-01-10 22:55:00",
+    "length": 48,
+    "game": "Bonus Game 2 - Super Monkey Ball: Banana Mania",
+    "run": "Story Mode All Worlds Race \u2014 PC",
+    "runners": "Helix, PetresInc",
+    "host": "ateatree",
+    "reminded": false
+  },
+  {
+    "run_id": 34,
+    "time": "2022-01-11 00:01:00",
+    "length": 50,
+    "game": "Ori and the Blind Forest",
+    "run": "All Cells (No OOB/TA) \u2014 PC",
+    "runners": "rinSR",
+    "host": "ateatree",
+    "reminded": false
+  },
+  {
+    "run_id": 35,
+    "time": "2022-01-11 01:11:00",
+    "length": 155,
+    "game": "Super Mario Galaxy",
+    "run": "Any% Luigi Race \u2014 Wii U",
+    "runners": "Mr. Cloud Kirby, HardcoreGaming, Jhay, Tibs",
+    "host": "Char_bunny",
+    "reminded": false
+  },
+  {
+    "run_id": 36,
+    "time": "2022-01-11 03:56:00",
+    "length": 15,
+    "game": "Daily Recap - Monday",
+    "run": "Recap% \u2014 Live",
+    "runners": "Kungfufruitcup, feasel, JHobz",
+    "host": "Char_bunny",
+    "reminded": false
+  },
+  {
+    "run_id": 37,
+    "time": "2022-01-11 04:11:00",
+    "length": 75,
+    "game": "Pumpkin Jack",
+    "run": "NG+ No OOB \u2014 PC",
+    "runners": "Jaxler",
+    "host": "Char_bunny",
+    "reminded": false
+  },
+  {
+    "run_id": 38,
+    "time": "2022-01-11 05:36:00",
+    "length": 40,
+    "game": "Hitman: Codename 47",
+    "run": "All Missions \u2014 PC",
+    "runners": "valdemarka",
+    "host": "Prolix",
+    "reminded": false
+  },
+  {
+    "run_id": 39,
+    "time": "2022-01-11 06:26:00",
+    "length": 73,
+    "game": "Serious Sam 4",
+    "run": "All Levels \u2014 PC",
+    "runners": "Tezur0",
+    "host": "Prolix",
+    "reminded": false
+  },
+  {
+    "run_id": 40,
+    "time": "2022-01-11 07:49:00",
+    "length": 43,
+    "game": "Marathon Durandal",
+    "run": "Kindergarten \u2014 Xbox One",
+    "runners": "tbcr",
+    "host": "Prolix",
+    "reminded": false
+  },
+  {
+    "run_id": 41,
+    "time": "2022-01-11 08:42:00",
+    "length": 27,
+    "game": "Beast Wars: Transformers",
+    "run": "Predacon Campaign \u2014 PS1",
+    "runners": "AilisNoon",
+    "host": "Prolix",
+    "reminded": false
+  },
+  {
+    "run_id": 42,
+    "time": "2022-01-11 09:19:00",
+    "length": 22,
+    "game": "Metal Warriors",
+    "run": "Any% \u2014 SNES",
+    "runners": "Omnigamer",
+    "host": "Sandsh8rk",
+    "reminded": false
+  },
+  {
+    "run_id": 43,
+    "time": "2022-01-11 09:51:00",
+    "length": 57,
+    "game": "Astalon: Tears of the Earth",
+    "run": "Any% \u2014 PC",
+    "runners": "strizer86",
+    "host": "Sandsh8rk",
+    "reminded": false
+  },
+  {
+    "run_id": 44,
+    "time": "2022-01-11 10:58:00",
+    "length": 60,
+    "game": "Willow",
+    "run": "any% \u2014 NES",
+    "runners": "Sathdresh",
+    "host": "Sandsh8rk",
+    "reminded": false
+  },
+  {
+    "run_id": 45,
+    "time": "2022-01-11 12:18:00",
+    "length": 8,
+    "game": "Kyoryu Sentai Zyuranger",
+    "run": "Easy Mode \u2014 NES",
+    "runners": "KLM1187",
+    "host": "SuperJamoose",
+    "reminded": false
+  },
+  {
+    "run_id": 46,
+    "time": "2022-01-11 12:36:00",
+    "length": 28,
+    "game": "Bucky O'Hare",
+    "run": "Normal Mode \u2014 NES",
+    "runners": "KLM1187",
+    "host": "SuperJamoose",
+    "reminded": false
+  },
+  {
+    "run_id": 47,
+    "time": "2022-01-11 13:14:00",
+    "length": 32,
+    "game": "Gargoyle's Quest II",
+    "run": "any% \u2014 NES",
+    "runners": "vanni_van",
+    "host": "SuperJamoose",
+    "reminded": false
+  },
+  {
+    "run_id": 48,
+    "time": "2022-01-11 13:56:00",
+    "length": 9,
+    "game": "Spacegulls",
+    "run": "100% v1.1 \u2014 NES",
+    "runners": "Oopla",
+    "host": "SuperJamoose",
+    "reminded": false
+  },
+  {
+    "run_id": 49,
+    "time": "2022-01-11 14:20:00",
+    "length": 20,
+    "game": "The Krion Conquest",
+    "run": "Any% Race (JP Version) \u2014 NES",
+    "runners": "stone_clive, KLM1187",
+    "host": "SuperJamoose",
+    "reminded": false
+  },
+  {
+    "run_id": 50,
+    "time": "2022-01-11 14:50:00",
+    "length": 290,
+    "game": "Final Fantasy XIII",
+    "run": "Any% \u2014 PC",
+    "runners": "Kayarune",
+    "host": "Bobby Blackwolf, SaberaMesia",
+    "reminded": false
+  },
+  {
+    "run_id": 51,
+    "time": "2022-01-11 20:05:00",
+    "length": 90,
+    "game": "Nier: Automata",
+    "run": "[A]ny% VC3 Mod Race \u2014 PC",
+    "runners": "BlueMetal, Ameiii",
+    "host": "Xenadir",
+    "reminded": false
+  },
+  {
+    "run_id": 52,
+    "time": "2022-01-11 21:45:00",
+    "length": 23,
+    "game": "Ratchet & Clank (2002)",
+    "run": "New Game+ \u2014 PS3",
+    "runners": "deltadoid",
+    "host": "Xenadir",
+    "reminded": false
+  },
+  {
+    "run_id": 53,
+    "time": "2022-01-11 22:18:00",
+    "length": 95,
+    "game": "Ratchet & Clank: Rift Apart",
+    "run": "NG+ \u2014 PS5",
+    "runners": "mobius",
+    "host": "Xenadir",
+    "reminded": false
+  },
+  {
+    "run_id": 54,
+    "time": "2022-01-12 00:08:00",
+    "length": 52,
+    "game": "Bonus Game 3 - Final Fantasy 7 Remake Intergrade",
+    "run": "INTERmission Normal any% \u2014 PS5",
+    "runners": "DutchPotato , GenericallyNamed",
+    "host": "TheCrankMachine",
+    "reminded": false
+  },
+  {
+    "run_id": 55,
+    "time": "2022-01-12 01:10:00",
+    "length": 66,
+    "game": "Returnal",
+    "run": "Fresh File Any% \u2014 PS5",
+    "runners": "cavecavecave",
+    "host": "TheCrankMachine",
+    "reminded": false
+  },
+  {
+    "run_id": 56,
+    "time": "2022-01-12 02:26:00",
+    "length": 15,
+    "game": "Daily Recap - Tuesday",
+    "run": "Recap% \u2014 Live",
+    "runners": "Kungfufruitcup, feasel, spikevegeta",
+    "host": "TheCrankMachine",
+    "reminded": false
+  },
+  {
+    "run_id": 57,
+    "time": "2022-01-12 02:41:00",
+    "length": 40,
+    "game": "Dead Rising",
+    "run": "TimeSkip NG \u2014 PC",
+    "runners": "Ecdycis",
+    "host": "AnEternalEnigma",
+    "reminded": false
+  },
+  {
+    "run_id": 58,
+    "time": "2022-01-12 03:31:00",
+    "length": 68,
+    "game": "Tormented Souls",
+    "run": "Full Game Any% \u2014 PC",
+    "runners": "RebeccaRE",
+    "host": "AnEternalEnigma",
+    "reminded": false
+  },
+  {
+    "run_id": 59,
+    "time": "2022-01-12 04:49:00",
+    "length": 30,
+    "game": "FAITH: Chapter II",
+    "run": "Ending III: Initiation \u2014 PC",
+    "runners": "Vynn",
+    "host": "Nichole Goodnight",
+    "reminded": false
+  },
+  {
+    "run_id": 60,
+    "time": "2022-01-12 05:29:00",
+    "length": 20,
+    "game": "PAON-\u3071\u304a\u3093- BEYOND THE PIEN",
+    "run": "Any% \u2014 PC",
+    "runners": "Swordfish4649",
+    "host": "Nichole Goodnight",
+    "reminded": false
+  },
+  {
+    "run_id": 61,
+    "time": "2022-01-12 05:59:00",
+    "length": 105,
+    "game": "Eternal Darkness: Sanity's Requiem",
+    "run": "Any% No Cutscene Storage \u2014 Wii",
+    "runners": "Pandora_jane",
+    "host": "THEKyleThomas",
+    "reminded": false
+  },
+  {
+    "run_id": 62,
+    "time": "2022-01-12 07:54:00",
+    "length": 40,
+    "game": "Kuon",
+    "run": "Yin Phase vs Yang Phase \u2014 PS2",
+    "runners": "MissScarletTanager",
+    "host": "THEKyleThomas",
+    "reminded": false
+  },
+  {
+    "run_id": 63,
+    "time": "2022-01-12 08:44:00",
+    "length": 55,
+    "game": "Three Dirty Dwarves",
+    "run": "Normal \u2014 Saturn",
+    "runners": "Lizstar",
+    "host": "AmberCyprian",
+    "reminded": false
+  },
+  {
+    "run_id": 64,
+    "time": "2022-01-12 09:49:00",
+    "length": 60,
+    "game": "We Love Katamari",
+    "run": "Any% \u2014 PS2",
+    "runners": "Harutomo",
+    "host": "AmberCyprian",
+    "reminded": false
+  },
+  {
+    "run_id": 65,
+    "time": "2022-01-12 10:59:00",
+    "length": 35,
+    "game": "The Typing of the Dead",
+    "run": "Arcade% \u2014 PC",
+    "runners": "teapartycthulu",
+    "host": "AmberCyprian",
+    "reminded": false
+  },
+  {
+    "run_id": 66,
+    "time": "2022-01-12 11:49:00",
+    "length": 26,
+    "game": "Teenage Mutant Ninja Turtles: The Hyperstone Heist",
+    "run": "Hard% \u2014 Genesis",
+    "runners": "Crunan",
+    "host": "AmberCyprian",
+    "reminded": false
+  },
+  {
+    "run_id": 67,
+    "time": "2022-01-12 12:25:00",
+    "length": 35,
+    "game": "SNOLF 0",
+    "run": "Any% \u2014 Genesis",
+    "runners": "dowolf",
+    "host": "Doctor No",
+    "reminded": false
+  },
+  {
+    "run_id": 68,
+    "time": "2022-01-12 13:10:00",
+    "length": 17,
+    "game": "Sonic R",
+    "run": "100% (No OoB) \u2014 Wii",
+    "runners": "Risuruuu",
+    "host": "Doctor No",
+    "reminded": false
+  },
+  {
+    "run_id": 69,
+    "time": "2022-01-12 13:37:00",
+    "length": 30,
+    "game": "Sonic Robo Blast 2",
+    "run": "Sonic Any% \u2014 PC",
+    "runners": "Lemin",
+    "host": "Doctor No",
+    "reminded": false
+  },
+  {
+    "run_id": 70,
+    "time": "2022-01-12 14:22:00",
+    "length": 50,
+    "game": "Sonic the Hedgehog 4: Episode II",
+    "run": "Any% Co-op \u2014 PC",
+    "runners": "Argick, AmberCyprian",
+    "host": "Edobean",
+    "reminded": false
+  },
+  {
+    "run_id": 71,
+    "time": "2022-01-12 15:22:00",
+    "length": 34,
+    "game": "Sonic Adventure DX: Director's Cut",
+    "run": "Sonic's Story \u2014 PC",
+    "runners": "AFWagers",
+    "host": "Edobean",
+    "reminded": false
+  },
+  {
+    "run_id": 72,
+    "time": "2022-01-12 16:06:00",
+    "length": 165,
+    "game": "Pokemon Crystal Key Item Randomizer",
+    "run": "Any% (beat Red) \u2014 GBC",
+    "runners": "360Chrism, Keizaron, Shenanagans",
+    "host": "Skybilz",
+    "reminded": false
+  },
+  {
+    "run_id": 73,
+    "time": "2022-01-12 19:01:00",
+    "length": 50,
+    "game": "Slay the Spire",
+    "run": "4 Character Unseeded \u2014 PC",
+    "runners": "SpeedFrog",
+    "host": "Xenadir",
+    "reminded": false
+  },
+  {
+    "run_id": 74,
+    "time": "2022-01-12 20:11:00",
+    "length": 60,
+    "game": "GeoGuessr",
+    "run": "Perfect Score / Co-op \u2014 PC",
+    "runners": "havrd, Janmumrik",
+    "host": "Xenadir",
+    "reminded": false
+  },
+  {
+    "run_id": 75,
+    "time": "2022-01-12 21:21:00",
+    "length": 29,
+    "game": "ShootMania Storm",
+    "run": "Hard Map Showcase \u2014 PC",
+    "runners": "SBVille",
+    "host": "iggyzig",
+    "reminded": false
+  },
+  {
+    "run_id": 76,
+    "time": "2022-01-12 22:00:00",
+    "length": 60,
+    "game": "Trackmania",
+    "run": "Community Maps Showcase \u2014 PC",
+    "runners": "Rastats",
+    "host": "iggyzig",
+    "reminded": false
+  },
+  {
+    "run_id": 77,
+    "time": "2022-01-12 23:20:00",
+    "length": 58,
+    "game": "Bonus Game 4 - Rocket League",
+    "run": "Workshop Showcase - Multiple Runners \u2014 PC",
+    "runners": "Jimingo, blaku, ThundaSurge, BoneyPlatypus",
+    "host": "iggyzig",
+    "reminded": false
+  },
+  {
+    "run_id": 78,
+    "time": "2022-01-13 00:28:00",
+    "length": 12,
+    "game": "Risk of Rain 2",
+    "run": "Any% \u2014 PC",
+    "runners": "Gothrand",
+    "host": "iggyzig",
+    "reminded": false
+  },
+  {
+    "run_id": 79,
+    "time": "2022-01-13 00:50:00",
+    "length": 97,
+    "game": "Halo 5: Guardians",
+    "run": "Full Game Legendary \u2014 Xbox One",
+    "runners": "Distro",
+    "host": "cartridgeblowers",
+    "reminded": false
+  },
+  {
+    "run_id": 80,
+    "time": "2022-01-13 02:42:00",
+    "length": 15,
+    "game": "Daily Recap - Wednesday",
+    "run": "Recap% \u2014 Live",
+    "runners": "spikevegeta, Keizaron, adef",
+    "host": "cartridgeblowers",
+    "reminded": false
+  },
+  {
+    "run_id": 81,
+    "time": "2022-01-13 02:57:00",
+    "length": 26,
+    "game": "Diddy Kong Racing",
+    "run": "All Trophy Races 3-Way Race \u2014 N64",
+    "runners": "tridenttail, Sweenerdog, Obiyo",
+    "host": "cartridgeblowers",
+    "reminded": false
+  },
+  {
+    "run_id": 82,
+    "time": "2022-01-13 03:33:00",
+    "length": 68,
+    "game": "Splatoon 2",
+    "run": "NG+ \u2014 Switch",
+    "runners": "talontrottinian",
+    "host": "TheCrankMachine",
+    "reminded": false
+  },
+  {
+    "run_id": 83,
+    "time": "2022-01-13 04:51:00",
+    "length": 40,
+    "game": "3DS Zelda Game Bidwar",
+    "run": "Any% Majora's Mask 3D or Ocarina of Time 3D \u2014 3DS",
+    "runners": "gymnast86",
+    "host": "TheCrankMachine",
+    "reminded": false
+  },
+  {
+    "run_id": 84,
+    "time": "2022-01-13 05:41:00",
+    "length": 84,
+    "game": "Zelda's Adventure",
+    "run": "Any% \u2014 CD-i",
+    "runners": "Douggernaught",
+    "host": "Lanaruse",
+    "reminded": false
+  },
+  {
+    "run_id": 85,
+    "time": "2022-01-13 07:15:00",
+    "length": 37,
+    "game": "Garshasp: The Monster Slayer",
+    "run": "No Void Rolling \u2014 PC",
+    "runners": "Stacky McBears",
+    "host": "Lanaruse",
+    "reminded": false
+  },
+  {
+    "run_id": 86,
+    "time": "2022-01-13 08:02:00",
+    "length": 11,
+    "game": "Taz-Mania",
+    "run": "Any% \u2014 Game Gear",
+    "runners": "Grumpmeister",
+    "host": "SporadicErratic",
+    "reminded": false
+  },
+  {
+    "run_id": 87,
+    "time": "2022-01-13 08:23:00",
+    "length": 33,
+    "game": "Meegah Mem II",
+    "run": "Any% \u2014 PC",
+    "runners": "LV Creed",
+    "host": "SporadicErratic",
+    "reminded": false
+  },
+  {
+    "run_id": 88,
+    "time": "2022-01-13 09:06:00",
+    "length": 10,
+    "game": "Captain Novolin",
+    "run": "Any% \u2014 SNES",
+    "runners": "Asuka424",
+    "host": "SporadicErratic",
+    "reminded": false
+  },
+  {
+    "run_id": 89,
+    "time": "2022-01-13 09:26:00",
+    "length": 15,
+    "game": "The Simpsons: Bart's House of Weirdness",
+    "run": "any% \u2014 PC",
+    "runners": "Fyzzu",
+    "host": "SporadicErratic",
+    "reminded": false
+  },
+  {
+    "run_id": 90,
+    "time": "2022-01-13 09:56:00",
+    "length": 14,
+    "game": "Darkman",
+    "run": "any% \u2014 NES",
+    "runners": "Neetsel",
+    "host": "SporadicErratic",
+    "reminded": false
+  },
+  {
+    "run_id": 91,
+    "time": "2022-01-13 10:20:00",
+    "length": 26,
+    "game": "Sonic Jam (Game.com)",
+    "run": "All Games \u2014 Game.Com",
+    "runners": "Finalflame",
+    "host": "AmberCyprian",
+    "reminded": false
+  },
+  {
+    "run_id": 92,
+    "time": "2022-01-13 11:06:00",
+    "length": 37,
+    "game": "Zadette",
+    "run": "Gamer% Race \u2014 PC",
+    "runners": "TenMicu, mooware, NPC, Neetsel",
+    "host": "AmberCyprian",
+    "reminded": false
+  },
+  {
+    "run_id": 93,
+    "time": "2022-01-13 11:53:00",
+    "length": 12,
+    "game": "Cranked Up",
+    "run": "Floor is Lava \u2014 PC",
+    "runners": "Bullets",
+    "host": "AmberCyprian",
+    "reminded": false
+  },
+  {
+    "run_id": 94,
+    "time": "2022-01-13 12:15:00",
+    "length": 25,
+    "game": "Discworld",
+    "run": "any% ScummVM No Act Return \u2014 PC",
+    "runners": "Mindez",
+    "host": "AmberCyprian",
+    "reminded": false
+  },
+  {
+    "run_id": 95,
+    "time": "2022-01-13 12:50:00",
+    "length": 55,
+    "game": "Castlevania: Lament of Innocence",
+    "run": "Any% Leon \u2014 PS3",
+    "runners": "LonerHero",
+    "host": "Ashewyn",
+    "reminded": false
+  },
+  {
+    "run_id": 96,
+    "time": "2022-01-13 14:00:00",
+    "length": 24,
+    "game": "Castlevania: Dracula X",
+    "run": "Any% Bad Ending Race \u2014 SNES",
+    "runners": "SBDWolf, Crunan",
+    "host": "Ashewyn",
+    "reminded": false
+  },
+  {
+    "run_id": 97,
+    "time": "2022-01-13 14:34:00",
+    "length": 36,
+    "game": "Castlevania: Circle of the Moon",
+    "run": "Vampire Killer All Bosses \u2014 PC",
+    "runners": "JupiterClimb",
+    "host": "Ashewyn",
+    "reminded": false
+  },
+  {
+    "run_id": 98,
+    "time": "2022-01-13 15:20:00",
+    "length": 26,
+    "game": "Castlevania Chronicles",
+    "run": "Original Mode TAS \u2014 PS1",
+    "runners": "strizer86",
+    "host": "Ashewyn",
+    "reminded": false
+  },
+  {
+    "run_id": 99,
+    "time": "2022-01-13 15:56:00",
+    "length": 65,
+    "game": "Half-Life 2",
+    "run": "Any% No Voidclip \u2014 PC",
+    "runners": "Maltemller",
+    "host": "SaberaMesia",
+    "reminded": false
+  },
+  {
+    "run_id": 100,
+    "time": "2022-01-13 17:11:00",
+    "length": 72,
+    "game": "Keep Talking and Nobody Explodes",
+    "run": "The Centurion: 100% \u2014 PC",
+    "runners": "Procyon",
+    "host": "SaberaMesia",
+    "reminded": false
+  },
+  {
+    "run_id": 101,
+    "time": "2022-01-13 18:33:00",
+    "length": 180,
+    "game": "Lost Judgment",
+    "run": "Any% \u2014 PS5",
+    "runners": "Froob",
+    "host": "Bobby Blackwolf",
+    "reminded": false
+  },
+  {
+    "run_id": 102,
+    "time": "2022-01-13 21:53:00",
+    "length": 195,
+    "game": "Kingdom Hearts 2 Final Mix HD",
+    "run": "Co-op Randomizer Race \u2014 PC",
+    "runners": "Violin, JHobz, spikevegeta, RoseCurel",
+    "host": "Nukkular_Reaction",
+    "reminded": false
+  },
+  {
+    "run_id": 103,
+    "time": "2022-01-14 01:18:00",
+    "length": 130,
+    "game": "Bonus Game 5 - Resident Evil Village",
+    "run": "Village of Shadows - Glitchless \u2014 PC",
+    "runners": "7rayD",
+    "host": "AnEternalEnigma",
+    "reminded": false
+  },
+  {
+    "run_id": 104,
+    "time": "2022-01-14 03:38:00",
+    "length": 15,
+    "game": "Daily Recap - Thursday",
+    "run": "Recap% \u2014 Live",
+    "runners": "Kungfufruitcup, feasel, adef",
+    "host": "AnEternalEnigma",
+    "reminded": false
+  },
+  {
+    "run_id": 105,
+    "time": "2022-01-14 03:53:00",
+    "length": 72,
+    "game": "crossbeats REV. Sunrise",
+    "run": "Showcase \u2014 Arcade",
+    "runners": "jammitch!",
+    "host": "AnEternalEnigma",
+    "reminded": false
+  },
+  {
+    "run_id": 106,
+    "time": "2022-01-14 05:15:00",
+    "length": 22,
+    "game": "Ynglet",
+    "run": "100% (Challenging) \u2014 PC",
+    "runners": "warm_ham",
+    "host": "AnEternalEnigma",
+    "reminded": false
+  },
+  {
+    "run_id": 107,
+    "time": "2022-01-14 05:52:00",
+    "length": 120,
+    "game": "It Takes Two",
+    "run": "Any% \u2014 PC",
+    "runners": "ItzBytez, whoishyper",
+    "host": "PurpleGhostKasper",
+    "reminded": false
+  },
+  {
+    "run_id": 108,
+    "time": "2022-01-14 08:02:00",
+    "length": 38,
+    "game": "Marble It Up!",
+    "run": "Full Game Classic \u2014 PC",
+    "runners": "Hatchet302",
+    "host": "SuperJamoose",
+    "reminded": false
+  },
+  {
+    "run_id": 109,
+    "time": "2022-01-14 08:50:00",
+    "length": 35,
+    "game": "The Elder Scrolls IV: Oblivion",
+    "run": "No DFS (No Dragonfire Skip) \u2014 PC",
+    "runners": "DizzySplits",
+    "host": "SuperJamoose",
+    "reminded": false
+  },
+  {
+    "run_id": 110,
+    "time": "2022-01-14 09:35:00",
+    "length": 20,
+    "game": "Stardew Valley",
+    "run": "Glitched Community Center Restoration \u2014 PC",
+    "runners": "Olenoname",
+    "host": "SporadicErratic",
+    "reminded": false
+  },
+  {
+    "run_id": 111,
+    "time": "2022-01-14 10:10:00",
+    "length": 10,
+    "game": "I Am Bread",
+    "run": "Any% \u2014 PC",
+    "runners": "PootLoops",
+    "host": "SporadicErratic",
+    "reminded": false
+  },
+  {
+    "run_id": 112,
+    "time": "2022-01-14 10:30:00",
+    "length": 10,
+    "game": "Oatmeal",
+    "run": "50% \u2014 PC",
+    "runners": "Konasumi",
+    "host": "SporadicErratic",
+    "reminded": false
+  },
+  {
+    "run_id": 113,
+    "time": "2022-01-14 10:55:00",
+    "length": 15,
+    "game": "Ultraman Ball",
+    "run": "any% \u2014 GB",
+    "runners": "giygasblues",
+    "host": "SporadicErratic",
+    "reminded": false
+  },
+  {
+    "run_id": 114,
+    "time": "2022-01-14 11:20:00",
+    "length": 20,
+    "game": "Wave Break",
+    "run": "Any% \u2014 PC",
+    "runners": "Biglaw",
+    "host": "SporadicErratic",
+    "reminded": false
+  },
+  {
+    "run_id": 115,
+    "time": "2022-01-14 11:55:00",
+    "length": 15,
+    "game": "SYNTHETIK",
+    "run": "220% coop (v26) \u2014 PC",
+    "runners": "PhoenyxBird, badzx",
+    "host": "SporadicErratic",
+    "reminded": false
+  },
+  {
+    "run_id": 116,
+    "time": "2022-01-14 12:20:00",
+    "length": 38,
+    "game": "Rockman & Forte",
+    "run": "Any% (Rockman) \u2014 SNES",
+    "runners": "Amad",
+    "host": "SporadicErratic",
+    "reminded": false
+  },
+  {
+    "run_id": 117,
+    "time": "2022-01-14 13:08:00",
+    "length": 19,
+    "game": "Journey",
+    "run": "Any% White Robe Glitched \u2014 PC",
+    "runners": "nathanj",
+    "host": "SporadicErratic",
+    "reminded": false
+  },
+  {
+    "run_id": 118,
+    "time": "2022-01-14 13:42:00",
+    "length": 190,
+    "game": "Yu-Gi-Oh! Forbidden Memories",
+    "run": "Any% Race w/ 15 Card Drop Mod \u2014 PSX",
+    "runners": "Keizaron, skybilz",
+    "host": "Nukkular_Reaction",
+    "reminded": false
+  },
+  {
+    "run_id": 119,
+    "time": "2022-01-14 17:02:00",
+    "length": 20,
+    "game": "Portal Reloaded",
+    "run": "No SLA \u2014 PC",
+    "runners": "Msushi",
+    "host": "Brutal_Melo",
+    "reminded": false
+  },
+  {
+    "run_id": 120,
+    "time": "2022-01-14 17:37:00",
+    "length": 85,
+    "game": "Dark Souls",
+    "run": "All Bosses Race \u2014 PC",
+    "runners": "Danflesh, Regole",
+    "host": "Brutal_Melo",
+    "reminded": false
+  },
+  {
+    "run_id": 121,
+    "time": "2022-01-14 19:12:00",
+    "length": 71,
+    "game": "Super Mario 3D Land",
+    "run": "Any% \u2014 3DS",
+    "runners": "zeldacubed1",
+    "host": "Brutal_Melo",
+    "reminded": false
+  },
+  {
+    "run_id": 122,
+    "time": "2022-01-14 20:43:00",
+    "length": 195,
+    "game": "Pok\u00e9mon Omega Ruby/Alpha Sapphire",
+    "run": "Any% race (OR vs. AS) \u2014 3DS",
+    "runners": "truely, wartab",
+    "host": "frozenflygone",
+    "reminded": false
+  },
+  {
+    "run_id": 123,
+    "time": "2022-01-15 00:08:00",
+    "length": 110,
+    "game": "Bonus Game 6 - StepMania/NotITG",
+    "run": "Mods Boot Camp 3 Exhibition \u2014 PC",
+    "runners": "SpootyBiscuit",
+    "host": "Lanaruse",
+    "reminded": false
+  },
+  {
+    "run_id": 124,
+    "time": "2022-01-15 02:13:00",
+    "length": 15,
+    "game": "Daily Recap - Friday",
+    "run": "Recap% \u2014 Live",
+    "runners": "JHobz, Keizaron, adef",
+    "host": "Lanaruse",
+    "reminded": false
+  },
+  {
+    "run_id": 125,
+    "time": "2022-01-15 02:28:00",
+    "length": 127,
+    "game": "Hades",
+    "run": "All Weapons Race \u2014 PC",
+    "runners": "cgull, tounis",
+    "host": "Lanaruse",
+    "reminded": false
+  },
+  {
+    "run_id": 126,
+    "time": "2022-01-15 04:45:00",
+    "length": 90,
+    "game": "Uncharted 2: Among Thieves",
+    "run": "Any% \u2014 PS5",
+    "runners": "Mattmatt",
+    "host": "iggyzig",
+    "reminded": false
+  },
+  {
+    "run_id": 127,
+    "time": "2022-01-15 06:25:00",
+    "length": 90,
+    "game": "Wario Land: Shake It!",
+    "run": "Beat the Game \u2014 Wii-U",
+    "runners": "Kirbymastah",
+    "host": "iggyzig",
+    "reminded": false
+  },
+  {
+    "run_id": 128,
+    "time": "2022-01-15 08:05:00",
+    "length": 61,
+    "game": "Spider-Man 2",
+    "run": "any% \u2014 Xbox",
+    "runners": "Slyfincleton",
+    "host": "THEKyleThomas",
+    "reminded": false
+  },
+  {
+    "run_id": 129,
+    "time": "2022-01-15 09:16:00",
+    "length": 35,
+    "game": "Donut County",
+    "run": "Beat The Game \u2014 PC",
+    "runners": "GreenSnowDog",
+    "host": "THEKyleThomas",
+    "reminded": false
+  },
+  {
+    "run_id": 130,
+    "time": "2022-01-15 10:01:00",
+    "length": 12,
+    "game": "Tetris Attack",
+    "run": "VS Mode (Very Hard) \u2014 SNES",
+    "runners": "FFR Pro 21",
+    "host": "THEKyleThomas",
+    "reminded": false
+  },
+  {
+    "run_id": 131,
+    "time": "2022-01-15 10:23:00",
+    "length": 30,
+    "game": "Blazing Chrome",
+    "run": "Arcade Mode (Normal) - Gun \u2014 PC",
+    "runners": "Kirthar",
+    "host": "Nichole Goodnight",
+    "reminded": false
+  },
+  {
+    "run_id": 132,
+    "time": "2022-01-15 11:03:00",
+    "length": 38,
+    "game": "Bishoujo Senshi Sailor Moon R",
+    "run": "Chibi% normal \u2014 SNES",
+    "runners": "Norishige710",
+    "host": "Nichole Goodnight",
+    "reminded": false
+  },
+  {
+    "run_id": 133,
+    "time": "2022-01-15 12:01:00",
+    "length": 60,
+    "game": "TMNT: Out of the Shadows",
+    "run": "Co-op NG+ \u2014 PC",
+    "runners": "Kainalo, havrd, Timopy, epicdudeguy",
+    "host": "Nichole Goodnight",
+    "reminded": false
+  },
+  {
+    "run_id": 134,
+    "time": "2022-01-15 13:11:00",
+    "length": 28,
+    "game": "The Legend of Spyro: The Eternal Night (GBA)",
+    "run": "Any% (Dark) \u2014 GBA",
+    "runners": "CDRomatron",
+    "host": "Nichole Goodnight",
+    "reminded": false
+  },
+  {
+    "run_id": 135,
+    "time": "2022-01-15 13:49:00",
+    "length": 40,
+    "game": "Casio Mario World",
+    "run": "any% \u2014 SNES",
+    "runners": "kezcade",
+    "host": "Skybilz",
+    "reminded": false
+  },
+  {
+    "run_id": 136,
+    "time": "2022-01-15 14:39:00",
+    "length": 55,
+    "game": "SpongeBob SquarePants: Battle for Bikini Bottom",
+    "run": "Any% \u2014 Xbox",
+    "runners": "SHiFT",
+    "host": "Skybilz",
+    "reminded": false
+  },
+  {
+    "run_id": 137,
+    "time": "2022-01-15 15:44:00",
+    "length": 55,
+    "game": "Subnautica",
+    "run": "Survival Any% \u2014 PC",
+    "runners": "salvner",
+    "host": "Skybilz",
+    "reminded": false
+  },
+  {
+    "run_id": 138,
+    "time": "2022-01-15 16:54:00",
+    "length": 60,
+    "game": "EarthBound",
+    "run": "Any% \u2014 SNES",
+    "runners": "octopuscal",
+    "host": "Bobby Blackwolf",
+    "reminded": false
+  },
+  {
+    "run_id": 139,
+    "time": "2022-01-15 18:09:00",
+    "length": 55,
+    "game": "Fallout New Vegas",
+    "run": "All Unique Weapons \u2014 PC",
+    "runners": "BananaPegasus",
+    "host": "Bobby Blackwolf",
+    "reminded": false
+  },
+  {
+    "run_id": 140,
+    "time": "2022-01-15 19:19:00",
+    "length": 77,
+    "game": "Halo: Combat Evolved",
+    "run": "Legendary \u2014 PC",
+    "runners": "Chronos_R",
+    "host": "cartridgeblowers",
+    "reminded": false
+  },
+  {
+    "run_id": 141,
+    "time": "2022-01-15 20:51:00",
+    "length": 58,
+    "game": "The Legend of Zelda: A Link to the Past",
+    "run": "All Bosses (No Exploration Glitch) \u2014 SNES",
+    "runners": "hotarubi_ta",
+    "host": "cartridgeblowers",
+    "reminded": false
+  },
+  {
+    "run_id": 142,
+    "time": "2022-01-15 22:19:00",
+    "length": 15,
+    "game": "Tetris: The Grand Master",
+    "run": "GM Race \u2014 Arcade",
+    "runners": "spc, PiePusher11, PARTY MAN X, JBroms",
+    "host": "Mr. Game and Shout",
+    "reminded": false
+  },
+  {
+    "run_id": 143,
+    "time": "2022-01-15 22:49:00",
+    "length": 165,
+    "game": "Sekiro: Shadows Die Twice",
+    "run": "Blindfolded Any% \u2014 PC",
+    "runners": "Mitchriz",
+    "host": "Mr. Game and Shout",
+    "reminded": false
+  },
+  {
+    "run_id": 144,
+    "time": "2022-01-16 01:49:00",
+    "length": 70,
+    "game": "Bonus Game 7 - Deltarune",
+    "run": "Chapter 2 Main Route \u2014 PC",
+    "runners": "Shayy",
+    "host": "ateatree",
+    "reminded": false
+  },
+  {
+    "run_id": 145,
+    "time": "2022-01-16 03:14:00",
+    "length": 15,
+    "game": "Event Recap",
+    "run": "Recap 100% \u2014 Live",
+    "runners": "sumichu, Sent, JHobz",
+    "host": "ateatree",
+    "reminded": false
+  },
+  {
+    "run_id": 146,
+    "time": "2022-01-16 03:29:00",
+    "length": 89,
+    "game": "Metal Gear Solid",
+    "run": "Console, All Bosses, Extreme \u2014 PSTV",
+    "runners": "dlimes13",
+    "host": "ateatree",
+    "reminded": false
+  },
+  {
+    "run_id": 147,
+    "time": "2022-01-16 05:08:00",
+    "length": 10,
+    "game": "Finale",
+    "run": "",
+    "runners": "Tech Crew",
+    "host": "",
+    "reminded": false
+  }
+]

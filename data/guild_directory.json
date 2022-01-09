@@ -1,0 +1,12 @@
+{
+    "669593052578578432": {
+        "guild_id": 669593052578578432,
+        "channels": [
+            785554622970069012
+        ],
+        "muted": false,
+        "reminders": true,
+        "approved_admins": [],
+        "blacklisted": []
+    }
+}
