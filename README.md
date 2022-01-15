@@ -7,8 +7,8 @@ How to setup(The guild owner must run this command):
  +admin init (*Used once* Initiate a guild into bot's guild directory.)
 
 [+help]
-GDQping bot - receive notifications when a GDQ run is about to start.
-
+ 
+    GDQping bot - receive notifications when a GDQ run is about to start.
     Quick Tutorial:
     1. Use '+schedule all' to get all run ids
     2. Construct your sub command, example:
@@ -18,15 +18,16 @@ GDQping bot - receive notifications when a GDQ run is about to start.
     5. Get a ping about 10 minutes before a run
     6. Profit!
 
-Commands:
-    +sub [number]- Subcribe to a GDQ run
-    +unsub [number]- Unsubscribe to a GDQ run
-    +upcoming - Get the upcoming games
-    +schedule "query here"- Query GDQ Schedule
-    +admin - Only admins (obv) can use these
+    Commands:
+        +sub [number]- Subcribe to a GDQ run
+        +unsub [number]- Unsubscribe to a GDQ run
+        +upcoming - Get the upcoming games
+        +schedule "query here"- Query GDQ Schedule
+        +admin - Only admins (obv) can use these
     
     
 [+help sub]
+
     Usage:
     +sub 1 (Subscribe to single run)
 
@@ -36,11 +37,12 @@ Commands:
 
     +sub list (Get a list of your subscriptions sent DM to you)
 
-Subscribe to runs by using it's ID. The ID can be found on the schedule next to the game name. The 'all' command does not overwrite your single subscriptions, however it takes priority over your single subscriptions.
+    Subscribe to runs by using it's ID. The ID can be found on the schedule next to the game name. The 'all' command does not overwrite your single subscriptions, however it takes priority over your single subscriptions.
 
 
 [+help unsub]
-Usage:
+
+    Usage:
     +unsub 1 (Unsubscribe to single run)
 
     +unsub "1,2,3,4,5" (Unsubscribe to multiple runs, quotations recommended)
@@ -53,7 +55,8 @@ Unsubscribe to runs by using it's ID. The ID can be found on the schedule next t
 
 
 [+help schedule]
-Usage:
+
+    Usage:
     +upcoming (Show 5 next runs on the schedule)
 
     +schedule "search string" (Quickly search for a run)
