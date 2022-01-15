@@ -37,7 +37,9 @@ How to setup(The guild owner must run this command):
 
     +sub list (Get a list of your subscriptions sent DM to you)
 
-    Subscribe to runs by using it's ID. The ID can be found on the schedule next to the game name. The 'all' command does not overwrite your single subscriptions, however it takes priority over your single subscriptions.
+    Subscribe to runs by using it's ID. The ID can be found on the schedule 
+    next to the game name. The 'all' command does not overwrite your single 
+    subscriptions, however it takes priority over your single subscriptions.
 
 
 [+help unsub]
@@ -51,7 +53,10 @@ How to setup(The guild owner must run this command):
 
     +unsub purge (Purge all subscriptions, including 'all' subscription)
 
-Unsubscribe to runs by using it's ID. The ID can be found on the schedule next to the game name. The 'all' subscription is a seperate preference from your single subcriptions, you will keep your single subscriptions if you unsub from 'all'.
+    Unsubscribe to runs by using it's ID. The ID can be found on the schedule 
+    next to the game name. The 'all' subscription is a seperate preference from 
+    your single subcriptions, you will keep your single subscriptions if you unsub 
+    from 'all'.
 
 
 [+help schedule]
@@ -65,4 +70,4 @@ Unsubscribe to runs by using it's ID. The ID can be found on the schedule next t
 
     +schedule ['name', 'runner', 'host'] "search string" (Search for a run using it's name, runner, or host)
 
-View the latest schedule for AQGDQ 2021. The schedule is sync'd to the AGDQ schedule every five minutes to reduce inconsistencies.
+    View the latest schedule for AQGDQ 2021. The schedule is sync'd to the AGDQ schedule every five minutes to reduce inconsistencies.
