@@ -4,7 +4,8 @@ A Discord bot written in python to ping member of server when a GDQ speedrun is 
 ***Many commands are setup to DM the caller in order to reduce channel spam. Its recommended to make a special channel for the bot.
 
 How to setup(The guild owner must run this command):
- +admin init (*Used once* Initiate a guild into bot's guild directory.)
+       
+    +admin init (*Used once* Initiate a guild into bot's guild directory.)
 
 [+help]
  
